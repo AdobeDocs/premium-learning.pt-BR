@@ -46,7 +46,7 @@ Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo pro
 Ingresse na sala de reunião usando o link personalizado nos convites do calendário.
 
 Se você não tiver um convite do calendário ou não puder ingressar no link personalizado, siga estas etapas de backup para iniciar a sala de reunião:
-1. Ir para [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Em **[!UICONTROL Professor em tempo real]**, localize seu curso.
 1. Você deve ver uma visão geral. Alterne para a guia **[!UICONTROL Detalhes da sessão]** e localize o dia em que você estiver.
@@ -57,7 +57,7 @@ Se você não tiver um convite do calendário ou não puder ingressar no link pe
 Ingresse na sala de reunião usando o link personalizado nos convites do calendário.
 
 Se você não tiver um convite do calendário ou não puder ingressar no link personalizado, siga estas etapas de backup para iniciar a sala de reunião:
-1. Ir para [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.

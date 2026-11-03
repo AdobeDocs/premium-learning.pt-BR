@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Para cancelar sua inscrição em um coorte ou curso:
 
-1. Localize sua inscrição listada na página [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Localize sua inscrição listada na página [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 2. Clique em **[!UICONTROL Cancelar inscrição]**.
 
 Visite os [Termos e Condições](/help/main-guide/terms-and-conditions.md) para obter informações completas sobre reagendamento, cancelamento e políticas de não comparência.
@@ -28,8 +28,8 @@ Visite os [Termos e Condições](/help/main-guide/terms-and-conditions.md) para 
 
 Para reprogramar para uma data diferente:
 
-1. Cancele a inscrição no seu coorte ou curso. Você pode encontrar suas inscrições listadas na página [**[!UICONTROL Meu aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
-2. Retorne ao [**[!UICONTROL Catálogo Premium ]**](https://experienceleague.adobe.com/en/premium/premium-search) para se inscrever em outro coorte ou data de curso.
+1. Cancele a inscrição no seu coorte ou curso. Você pode encontrar suas inscrições listadas na página [**[!UICONTROL Meu aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+2. Retorne ao [**[!UICONTROL Catálogo Premium &#x200B;]**](https://experienceleague.adobe.com/en/premium/premium-search) para se inscrever em outro coorte ou data de curso.
 
 Visite os [Termos e Condições](/help/main-guide/terms-and-conditions.md) para obter informações completas sobre reagendamento, cancelamento e políticas de não comparência.
 

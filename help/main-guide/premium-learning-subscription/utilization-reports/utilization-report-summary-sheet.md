@@ -21,7 +21,7 @@ A **[!UICONTROL Planilha de resumo]** fornece uma visão geral de alto nível da
 
 ## Uma referência rápida para ler a guia **[!UICONTROL Resumo]** do seu **[!UICONTROL Relatório de Utilização do Aprendizado]**. Os números variam de acordo com a conta. Isso explica o que cada seção significa.
 
-**P: Quais são os quatro números na parte superior (**[!UICONTROL  Total de inscrições ]**,**[!UICONTROL  Alunos ativos ]**,**[!UICONTROL  Taxa de conclusão ]**,**[!UICONTROL  Horas de aprendizado ]**)?**
+**P: Quais são os quatro números na parte superior (**&#x200B;[!UICONTROL &#x200B; Total de inscrições &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Alunos ativos &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Taxa de conclusão &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Horas de aprendizado &#x200B;]&#x200B;**)?**
 
 Esses são seus KPIs de título: a maneira mais rápida de medir o tamanho e o momentum do programa.
 
@@ -29,15 +29,15 @@ Esses são seus KPIs de título: a maneira mais rápida de medir o tamanho e o m
 >
 >A Taxa de conclusão e as Horas de aprendizado contam apenas o treinamento que realmente aconteceu (entregue ou individualizado), não as aulas ainda programadas.
 
-**P: O que a tabela**[!UICONTROL  Tendências de Inscrição por Mês ]**mostra?**
+**P: O que a tabela**&#x200B;[!UICONTROL &#x200B; Tendências de Inscrição por Mês &#x200B;]&#x200B;**mostra?**
 
 Sua atividade de inscrição ao longo do tempo, mês por mês, com % de alteração. Use isso para ver se o engajamento está crescendo, se está estável ou se está diminuindo.
 
-**P: Qual é a diferença entre o**[!UICONTROL  Detalhamento do Status ]**e a**[!UICONTROL  Taxa de Conclusão ]**?**
+**P: Qual é a diferença entre o**&#x200B;[!UICONTROL &#x200B; Detalhamento do Status &#x200B;]&#x200B;**e a**&#x200B;[!UICONTROL &#x200B; Taxa de Conclusão &#x200B;]&#x200B;**?**
 
 O Detalhamento do Status (Concluído / Em Andamento / Não Iniciado) abrange todas as inscrições, incluindo as que ainda não foram iniciadas. A Taxa de conclusão conta apenas as classes em que os alunos tiveram a chance de terminar.
 
-**P: O que é que me diz**[!UICONTROL  Entrega de Classe — Agendada vs Entregue ]**?**
+**P: O que é que me diz**&#x200B;[!UICONTROL &#x200B; Entrega de Classe — Agendada vs Entregue &#x200B;]&#x200B;**?**
 
 Se as suas inscrições já foram executadas. Ele divide tudo em Entregue, Em Andamento, Agendado e No Ritmo Próprio — é a base para o que conta como *qualificado* na matemática de conclusão.
 
