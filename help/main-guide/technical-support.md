@@ -31,8 +31,8 @@ Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo pro
 - Experimente um navegador alternativo.
 - Tente uma rede ou um dispositivo alternativo. As configurações de rede ou firewall da sua organização podem estar impedindo o acesso à sala de reunião virtual. Se disponível, tente usar uma rede diferente ou um dispositivo pessoal.
 - Ativar as configurações do dispositivo de áudio.
-- Consulte as [especificações técnicas](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) do Adobe Connect.
-- Inclua na lista de permissões os domínios, endereços IP e portas de rede necessários, conforme recomendado pelo departamento de engenharia. Recomendamos compartilhar este [artigo relevante do Adobe](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) com a equipe de TI de sua organização para que ela possa permitir as portas UDP e TCP necessárias e garantir a conectividade de mídia adequada.
+- Consulte as [especificações técnicas](https://helpx.adobe.com/br/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) do Adobe Connect.
+- Inclua na lista de permissões os domínios, endereços IP e portas de rede necessários, conforme recomendado pelo departamento de engenharia. Recomendamos compartilhar este [artigo relevante do Adobe](https://helpx.adobe.com/br/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) com a equipe de TI de sua organização para que ela possa permitir as portas UDP e TCP necessárias e garantir a conectividade de mídia adequada.
 
 **Recursos adicionais do Adobe Connect:**
 
@@ -46,7 +46,7 @@ Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo pro
 Ingresse na sala de reunião usando o link personalizado nos convites do calendário.
 
 Se você não tiver um convite do calendário ou não puder ingressar no link personalizado, siga estas etapas de backup para iniciar a sala de reunião:
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Em **[!UICONTROL Professor em tempo real]**, localize seu curso.
 1. Você deve ver uma visão geral. Alterne para a guia **[!UICONTROL Detalhes da sessão]** e localize o dia em que você estiver.
@@ -57,7 +57,7 @@ Se você não tiver um convite do calendário ou não puder ingressar no link pe
 Ingresse na sala de reunião usando o link personalizado nos convites do calendário.
 
 Se você não tiver um convite do calendário ou não puder ingressar no link personalizado, siga estas etapas de backup para iniciar a sala de reunião:
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.

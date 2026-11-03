@@ -35,4 +35,4 @@ Você também pode acompanhar seu progresso através da conclusão do projeto De
 
 As últimas semanas incluem um Desafio Capstone para aplicar seu aprendizado e algum tempo de preparação da certificação para prepará-lo para o exame de certificação Adobe.
 
-Os emblemas de conclusão de coorte estarão disponíveis em [Minhas conquistas](https://experienceleague.adobe.com/en/premium/my-achievements).
+Os emblemas de conclusão de coorte estarão disponíveis em [Minhas conquistas](https://experienceleague.adobe.com/pt-br/premium/my-achievements).

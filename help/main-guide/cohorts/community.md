@@ -17,6 +17,6 @@ ht-degree: 1%
 
 ## Existe um canal ou fórum de suporte dedicado para membros de um coorte?
 
-Cada coorte do Adobe Premium Learning oferece um **quadro de discussão**, no qual os membros da coorte, bem como o instrutor e o facilitador, podem conversar sobre o que você está aprendendo, fazer perguntas e muito mais. O quadro de discussão da coorte é uma ótima maneira de interagir com seus colegas fora das sessões. O quadro de discussão fica disponível **no primeiro dia da sua coorte**, em [Meu Hub](https://experienceleague.adobe.com/en/premium/home).
+Cada coorte do Adobe Premium Learning oferece um **quadro de discussão**, no qual os membros da coorte, bem como o instrutor e o facilitador, podem conversar sobre o que você está aprendendo, fazer perguntas e muito mais. O quadro de discussão da coorte é uma ótima maneira de interagir com seus colegas fora das sessões. O quadro de discussão fica disponível **no primeiro dia da sua coorte**, em [Meu Hub](https://experienceleague.adobe.com/pt-br/premium/home).
 
 **Pergunta não listada aqui? [Contate-nos](https://adobe.service-now.com/adls?category=27).**

@@ -20,7 +20,7 @@ ht-degree: 0%
 As sessões em tempo real serão conduzidas usando o Adobe Connect. Siga estes pontos de verificação para evitar problemas técnicos durante a sessão em tempo real:
 
 1. Execute este [teste de diagnóstico](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) para garantir que o Adobe Connect esteja funcionando corretamente no seu sistema.
-1. Consulte as [especificações técnicas](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) do Adobe Connect.
+1. Consulte as [especificações técnicas](https://helpx.adobe.com/br/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) do Adobe Connect.
 1. Você pode associar-se ao Adobe Connect por meio de um navegador ou do aplicativo de desktop.
 a) Se o aplicativo de desktop já estiver instalado e você estiver com problemas, desinstale o aplicativo Adobe Connect e reinstale-o usando a versão mais recente fornecida [aqui](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 
