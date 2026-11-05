@@ -29,7 +29,7 @@ Para ajudar a garantir que nossos emails e convites do calendário sejam entregu
 
 Se você não tiver um email, verifique sua pasta de spam ou lixo eletrônico e todas as guias secundárias da caixa de entrada (como a guia **[!UICONTROL Outros]** no Outlook ou exibições filtradas semelhantes).
 
-**Aproximadamente uma semana antes do início da sua coorte:** Procure um email de boas-vindas que permita que você comece a acessar suas atividades de coorte e os requisitos de pré-trabalho. Enquanto isso, você pode ler sobre os objetivos e a agenda da coorte em [**[!UICONTROL Meu Hub ]**](https://experienceleague.adobe.com/en/premium/home).
+**Aproximadamente uma semana antes do início da sua coorte:** Procure um email de boas-vindas que permita que você comece a acessar suas atividades de coorte e os requisitos de pré-trabalho. Enquanto isso, você pode ler sobre os objetivos e a agenda da coorte em [**[!UICONTROL Meu Hub &#x200B;]**](https://experienceleague.adobe.com/en/premium/home).
 
 ## Como faço para obter acesso a um ambiente para usar durante a coorte?
 
