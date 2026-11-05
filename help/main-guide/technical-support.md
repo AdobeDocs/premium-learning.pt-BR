@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo problemas com sua experiência em sala de aula agora?
@@ -73,6 +73,6 @@ Se o ambiente de sandbox concluiu o provisionamento, mas você está com problem
 
 ## Dicas de entregabilidade por email
 
-Emails de aprendizado e convites do calendário serão enviados de [plsnore@adobe.com](mailto:plsnore@adobe.com). Para garantir que você receba atualizações importantes, adicione este endereço de email aos seus contatos ou à lista de remetentes confiáveis. Se você acha que perdeu um email, verifique sua pasta de spam ou lixo eletrônico, bem como todas as guias da caixa de entrada filtradas (como a guia **[!UICONTROL Outros]** no Outlook).
+Emails de aprendizado e convites do calendário são enviados de [plsnore@adobe.com](mailto:plsnore@adobe.com) (endereço sem resposta). Para garantir que você receba atualizações importantes, adicione este endereço de email aos seus contatos ou à lista de remetentes confiáveis. Se você acha que perdeu um email, verifique sua pasta de spam ou lixo eletrônico, bem como todas as guias da caixa de entrada filtradas (como a guia **[!UICONTROL Outros]** no Outlook).
 
 Pergunta não listada aqui? [Fale conosco](https://adobe.service-now.com/adls?category=6).
