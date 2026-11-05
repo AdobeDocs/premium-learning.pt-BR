@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## Faltam os convites do calendário para minhas sessões de coorte ao vivo.
 
-Os convites são provenientes de [plsnore@adobe.com](mailto:plsnore@adobe.com) (usado para notificações relacionadas ao aprendizado e convites de calendário). Verifique sua pasta de spam ou lixo eletrônico e todas as guias secundárias da caixa de entrada (como a guia **[!UICONTROL Outros]** no Outlook ou exibições filtradas semelhantes).
+Os convites são provenientes de [plsnore@adobe.com](mailto:plsnore@adobe.com) (um endereço sem resposta usado para notificações relacionadas ao aprendizado e convites de calendário). Verifique sua pasta de spam ou lixo eletrônico e todas as guias secundárias da caixa de entrada (como a guia **[!UICONTROL Outros]** no Outlook ou exibições filtradas semelhantes).
 
 Ingresse na sala de reunião **usando o link personalizado nos convites do calendário**.
 
 Se você não tiver um convite do calendário, siga estas etapas de backup para iniciar a sala de reunião:
 
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.
@@ -33,7 +33,7 @@ Se você não tiver um convite do calendário, siga estas etapas de backup para 
 
 Se você não conseguir ingressar por meio do link personalizado no convite do calendário, siga estas etapas de backup para iniciar a sala de reunião:
 
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.

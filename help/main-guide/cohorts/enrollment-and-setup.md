@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,13 +23,13 @@ Você receberá um email de confirmação da inscrição e convites de calendár
 
 Para ajudar a garantir que nossos emails e convites do calendário sejam entregues em sua caixa de entrada, adicione os seguintes endereços aos seus contatos ou à lista de remetentes confiáveis:
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)** (usado para notificações relacionadas ao aprendizado e convites do calendário)
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)** (endereço sem resposta usado para notificações relacionadas ao aprendizado e convites do calendário)
 
 **[environment@adobe.com](mailto:environment@adobe.com)** e **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** (usados para sandbox e notificações relacionadas ao ambiente)
 
 Se você não tiver um email, verifique sua pasta de spam ou lixo eletrônico e todas as guias secundárias da caixa de entrada (como a guia **[!UICONTROL Outros]** no Outlook ou exibições filtradas semelhantes).
 
-**Aproximadamente uma semana antes do início da sua coorte:** Procure um email de boas-vindas que permita que você comece a acessar suas atividades de coorte e os requisitos de pré-trabalho. Enquanto isso, você pode ler sobre os objetivos e a agenda da coorte em [**[!UICONTROL Meu Hub &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/home).
+**Aproximadamente uma semana antes do início da sua coorte:** Procure um email de boas-vindas que permita que você comece a acessar suas atividades de coorte e os requisitos de pré-trabalho. Enquanto isso, você pode ler sobre os objetivos e a agenda da coorte em [**[!UICONTROL Meu Hub ]**](https://experienceleague.adobe.com/en/premium/home).
 
 ## Como faço para obter acesso a um ambiente para usar durante a coorte?
 

@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo problemas com sua experiência em sala de aula agora?
@@ -31,8 +31,8 @@ Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo pro
 - Experimente um navegador alternativo.
 - Tente uma rede ou um dispositivo alternativo. As configurações de rede ou firewall da sua organização podem estar impedindo o acesso à sala de reunião virtual. Se disponível, tente usar uma rede diferente ou um dispositivo pessoal.
 - Ativar as configurações do dispositivo de áudio.
-- Consulte as [especificações técnicas](https://helpx.adobe.com/br/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) do Adobe Connect.
-- Inclua na lista de permissões os domínios, endereços IP e portas de rede necessários, conforme recomendado pelo departamento de engenharia. Recomendamos compartilhar este [artigo relevante do Adobe](https://helpx.adobe.com/br/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) com a equipe de TI de sua organização para que ela possa permitir as portas UDP e TCP necessárias e garantir a conectividade de mídia adequada.
+- Consulte as [especificações técnicas](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) do Adobe Connect.
+- Inclua na lista de permissões os domínios, endereços IP e portas de rede necessários, conforme recomendado pelo departamento de engenharia. Recomendamos compartilhar este [artigo relevante do Adobe](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) com a equipe de TI de sua organização para que ela possa permitir as portas UDP e TCP necessárias e garantir a conectividade de mídia adequada.
 
 **Recursos adicionais do Adobe Connect:**
 
@@ -46,7 +46,7 @@ Precisa de ajuda para iniciar uma sala de reunião ou conteúdo? Está tendo pro
 Ingresse na sala de reunião usando o link personalizado nos convites do calendário.
 
 Se você não tiver um convite do calendário ou não puder ingressar no link personalizado, siga estas etapas de backup para iniciar a sala de reunião:
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Em **[!UICONTROL Professor em tempo real]**, localize seu curso.
 1. Você deve ver uma visão geral. Alterne para a guia **[!UICONTROL Detalhes da sessão]** e localize o dia em que você estiver.
@@ -57,7 +57,7 @@ Se você não tiver um convite do calendário ou não puder ingressar no link pe
 Ingresse na sala de reunião usando o link personalizado nos convites do calendário.
 
 Se você não tiver um convite do calendário ou não puder ingressar no link personalizado, siga estas etapas de backup para iniciar a sala de reunião:
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado ]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.
@@ -73,6 +73,6 @@ Se o ambiente de sandbox concluiu o provisionamento, mas você está com problem
 
 ## Dicas de entregabilidade por email
 
-Emails de aprendizado e convites do calendário serão enviados de [plsnore@adobe.com](mailto:plsnore@adobe.com). Para garantir que você receba atualizações importantes, adicione este endereço de email aos seus contatos ou à lista de remetentes confiáveis. Se você acha que perdeu um email, verifique sua pasta de spam ou lixo eletrônico, bem como todas as guias da caixa de entrada filtradas (como a guia **[!UICONTROL Outros]** no Outlook).
+Emails de aprendizado e convites do calendário são enviados de [plsnore@adobe.com](mailto:plsnore@adobe.com) (endereço sem resposta). Para garantir que você receba atualizações importantes, adicione este endereço de email aos seus contatos ou à lista de remetentes confiáveis. Se você acha que perdeu um email, verifique sua pasta de spam ou lixo eletrônico, bem como todas as guias da caixa de entrada filtradas (como a guia **[!UICONTROL Outros]** no Outlook).
 
 Pergunta não listada aqui? [Fale conosco](https://adobe.service-now.com/adls?category=6).
