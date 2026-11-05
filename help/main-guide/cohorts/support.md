@@ -23,7 +23,7 @@ Ingresse na sala de reunião **usando o link personalizado nos convites do calen
 
 Se você não tiver um convite do calendário, siga estas etapas de backup para iniciar a sala de reunião:
 
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.
@@ -33,7 +33,7 @@ Se você não tiver um convite do calendário, siga estas etapas de backup para 
 
 Se você não conseguir ingressar por meio do link personalizado no convite do calendário, siga estas etapas de backup para iniciar a sala de reunião:
 
-1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Ir para [**[!UICONTROL Meu Aprendizado &#x200B;]**](https://experienceleague.adobe.com/pt-br/premium/learnings).
 1. Navegue até a seção **[!UICONTROL Aprendizado em andamento]**.
 1. Localize a coorte.
 1. Navegue até a semana apropriada e expanda a sessão.
